@@ -17,6 +17,7 @@ rag_customer_support/
 ├── app.py             # Streamlit UI
 ├── requirements.txt
 ├── .env.example
+├── customer_support_knowledge_base.pdf
 └── README.md
 ```
 
